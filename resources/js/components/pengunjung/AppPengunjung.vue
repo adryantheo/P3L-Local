@@ -17,7 +17,7 @@
 
     <v-toolbar color="white" app>
       <v-toolbar-side-icon @click.stop="drawer = !drawer"></v-toolbar-side-icon>
-      <img src="/P3L-Web/public/Logo.png" alt="" >
+      <img src="/8786/Logo.png" alt="" >
       <v-toolbar-title>Atma Auto</v-toolbar-title>
 
       <v-spacer></v-spacer>
